@@ -13,6 +13,7 @@ try (ServerSocket server = new ServerSocket(porta)){
 
     while (true) {
         Socket socket = server.accept();
+        
     }
     
     
